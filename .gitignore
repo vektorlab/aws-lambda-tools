@@ -56,4 +56,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# Pycharm
+.idea
+
+# Build and package paths
 _build
+package/
